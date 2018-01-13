@@ -5,4 +5,4 @@ all:
 	rm README.md
 	echo "## Project Title: Guessing Game\n" >> README.md
 	echo "## Creation Date-Time: $(today)\n" >> README.md
-	echo "##Lines of Code: $(locs)\n" >> README.md
+	echo "## Lines of Code: $(locs)\n" >> README.md
